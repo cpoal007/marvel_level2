@@ -1,0 +1,119 @@
+# TASK 1
+## FUNDAMENTALS TO CAD
+this was my first task where i learnt various forms of CAD , learnt where n how to use them .
+learnt the basic commands and got more understanding on orthographic figures.
+
+# TASK 2
+## 2D Drawings in CAD
+in this task there were 5 drawing given where i used the fusion 360  to complete this particular task
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/f32221a2-d5ba-4889-864b-22676e75b0fc)
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/48d77d09-a212-4fca-802e-9e5ff5c249ce)
+![Screenshot 2023-08-05 161003](https://github.com/cpoal007/marvel_level2/assets/91461743/ccd4187e-758c-46f2-8b1e-1a32855ffd1a)
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/1f643847-9744-47b0-96a9-b25755116c43)
+
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/31e49707-50ca-437a-ae7d-1a933ae4bfa6)
+
+## 3D Drafting
+### TASK 1
+designed a allen key with the dimensions Length - 55mm Width - 20mm Size - 3mm
+
+![Screenshot 2023-09-05 205136](https://github.com/cpoal007/marvel_level2/assets/91461743/2c595299-a5b2-4958-8143-55f3748b1e72)
+
+### TASK 2 
+from the given machine drawings i have chosen the following and did complete this task. where i followed the following way to complete this task.
+1.Sketch fundamentals
+2.The sketch environment
+3.Create and modify sketch geometry
+4.Constrain sketch geometry
+5.Dimension sketch geometry
+6.Use parameters to constrain sketch geometry
+7.Project geometry into a sketch
+8.Finished the sketch
+
+![machine 2](https://github.com/cpoal007/marvel_level2/assets/91461743/28c88fad-2b04-4e8d-8027-21ccb6e62a4f)
+![machine 1](https://github.com/cpoal007/marvel_level2/assets/91461743/b9a32d50-ab44-4abc-b4ee-cb7f03ddb7b2)
+![machine 3](https://github.com/cpoal007/marvel_level2/assets/91461743/e0e44301-2c64-4033-8cb2-89f546f097d7)
+
+
+## 3D Modelling
+### Solid Modelling
+in this task i Designed a simple aerofoil for an HTOL aircraft using Fusion360.
+![Screenshot 2023-09-13 214857](https://github.com/cpoal007/marvel_level2/assets/91461743/dad719de-2d4f-4b85-99c7-55faff6cc47c)
+
+### Surface Modelling:
+in this task Designed a toroidal propellor which is compatible with a 1000kv BLDC Motor available in the lab.
+![Screenshot 2023-09-13 204906](https://github.com/cpoal007/marvel_level2/assets/91461743/6d50d1ea-24bc-44fe-9ec5-9a44af648350)
+
+### Organic Designing using forms
+Designed a Hollow vase for MARVEL using the Forms feature in Fusion360. learnt how to use forms in fusion 360 while doing this task ot did take quite  a lot of time but thee end results were worth it.
+![Screenshot 2023-09-14 110948](https://github.com/cpoal007/marvel_level2/assets/91461743/1fd7164c-c0df-43c7-a18a-0f47374325fc)
+
+## 3D Printing
+3D printing, also known as additive manufacturing, is a technology that allows the creation of three-dimensional objects by layering material on top of itself. This process is in contrast to traditional subtractive manufacturing, where material is removed from a solid block to create a desired shape. 3D printing has gained significant popularity and is used in various industries for prototyping, customization, and even production of finished products. Here's an overview of how 3D printing works and its applications:
+
+#### How 3D Printing Works:
+
+##### 1.Digital Design: 
+The process starts with a digital 3D model of the object you want to create. This model is usually created using computer-aided design (CAD) software.
+
+##### 2.Slicing: 
+The 3D model is sliced into thin horizontal layers using slicing software. Each of these layers serves as a blueprint for the 3D printer.
+
+##### 3.Printing: 
+The 3D printer follows these layer-by-layer instructions, depositing material (typically plastic, metal, resin, or a composite) to create the physical object. There are various 3D printing technologies, including Fused Deposition Modeling (FDM), Stereolithography (SLA), Selective Laser Sintering (SLS), and more, each with its own material and process characteristics.
+
+##### 4.Cooling and Solidification: 
+Depending on the technology, the material is cooled, cured, or sintered to harden it into the desired shape.
+
+##### 5.Post-Processing: 
+After printing, additional steps such as removing support structures, sanding, painting, or assembling multiple parts may be necessary to achieve the desired finish and functionality.
+
+###### the material that we use at lab  PLA(polylactic acid filament ) PRO + at a temperature of 195-210 and bed temperature of about 40-50 degree C.
+
+#### Applications of 3D Printing:
+
+##### Prototyping: 
+3D printing is widely used for rapid prototyping in industries like aerospace, automotive, and product design. It allows for quick and cost-effective iteration of designs.
+
+##### Customization: 
+3D printing enables the production of highly customized products, such as personalized medical implants, dental prosthetics, and bespoke fashion items.
+
+##### Medical and Healthcare:
+ 3D printing has applications in creating patient-specific surgical models, prosthetics, orthodontic devices, and even organs and tissues for transplantation in the field of regenerative medicine.
+
+##### Education:
+ 3D printing is a valuable tool for STEM education, allowing students to bring their design concepts to life and learn about engineering, design, and manufacturing processes.
+
+##### Architecture and Construction: 
+Large-scale 3D printers can create architectural models, building components, and even entire structures, offering new possibilities in construction.
+
+##### Aerospace and Automotive: 
+3D printing is used to produce lightweight and complex components for aircraft and vehicles, leading to improved fuel efficiency and performance.
+
+##### Research and Development: 
+Scientists and researchers utilize 3D printing to create specialized laboratory equipment, prototypes for experiments, and models for scientific visualization.
+
+#### Overall, 3D printing has revolutionized manufacturing and product development by providing greater design freedom, cost savings, and the ability to create previously impossible geometries. Its applications continue to expand as the technology advances and becomes more accessible.
+
+## E L E C T R O N I C S
+### Make basic gates using TTL logic.
+#### 1.OR GATE USING NPN TRANSISTOR
+made a basic  OR gate connection using npn transistor on tinker cad
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/ee807a74-3f08-45a1-9903-9158898f6f23)
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/cc27b412-41c4-4f0a-9880-139e2f05411e)
+#### 2.AND GATE USING NPN TRANSISTOR
+made a basic AND gate connection using npn transistor on tinker cad
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/704d7154-faf1-4ec5-a99c-d81176799617)
+
+#### 3.NAND GATE USING NPN TRANSISTOR
+made a basic NAND gate connection using npn transistor on tinker cad
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/cc8a336d-bd5f-40a5-a2df-1e3fab5366ad)
+
+#### 4.NOR GATE USING NPN TRANSISTOR
+made a basic  NOR gate connection using npn transistor on tinker cad
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/c0308aba-2431-4e1c-961d-7f277342d923)
+
+### Driving an N-channel MOSFET
+Driving an N-channel MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) properly is essential to ensure it operates efficiently and safely in electronic circuits. N-channel MOSFETs are commonly used as switches in many applications due to their low ON resistance and fast switching characteristics
+
+![image](https://github.com/cpoal007/marvel_level2/assets/91461743/fc6b3708-3ef5-41bc-8208-12ad8d5fa285)
