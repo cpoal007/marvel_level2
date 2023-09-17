@@ -31,5 +31,13 @@
 ![image](https://github.com/cpoal007/marvel_level2/assets/91461743/31e49707-50ca-437a-ae7d-1a933ae4bfa6)
 
 
+![IMG-20230916-WA0019](https://github.com/cpoal007/marvel_level2/assets/91461743/5c5bade6-af35-47e4-9bd0-38c94c4c476f)
+![IMG-20230916-WA0018](https://github.com/cpoal007/marvel_level2/assets/91461743/0a312e5f-1375-4f0b-9c7b-10175c45259c)
+![IMG-20230916-WA0017](https://github.com/cpoal007/marvel_level2/assets/91461743/69e075b2-60b5-4111-b5d2-c2544face90b)
+![IMG-20230916-WA0023](https://github.com/cpoal007/marvel_level2/assets/91461743/cd56063c-4433-4f41-82e2-abfce6eba588)
+![IMG-20230916-WA0022](https://github.com/cpoal007/marvel_level2/assets/91461743/522b148d-b09e-4362-9a66-1fa5d30f8d6e)
+![IMG-20230916-WA0020](https://github.com/cpoal007/marvel_level2/assets/91461743/9be89a6f-02b0-44df-9f37-f31cf62d71f5)
 
+![IMG-20230916-WA0024](https://github.com/cpoal007/marvel_level2/assets/91461743/2a1f3df5-0b5e-420e-b430-fbf7e045e1d6)
+![IMG-20230916-WA0025](https://github.com/cpoal007/marvel_level2/assets/91461743/d80405da-64df-4eb1-b3d4-db5f69a25e46)
 
